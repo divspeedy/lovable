@@ -1,0 +1,13 @@
+# Python virtual environment
+backend/venv/
+
+# Python cache files
+backend/__pycache__/
+
+# Folder for user-uploaded files
+backend/uploads/
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store

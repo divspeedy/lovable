@@ -1,0 +1,649 @@
+{
+    "Iteration 1": {
+        "original_names": [
+            "Test Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 3,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Emerging",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2"
+                ],
+                "frequency": 2,
+                "reason": "Standardized similar pressure values into a consistent format.",
+                "spec_status": "Emerging"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 2": {
+        "original_names": [
+            "Test Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 4,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Emerging",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2"
+                ],
+                "frequency": 3,
+                "reason": "Standardized similar pressure values into a consistent format.",
+                "spec_status": "Emerging"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 3": {
+        "original_names": [
+            "Test Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 6,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Emerging",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2"
+                ],
+                "frequency": 5,
+                "reason": "Standardized similar pressure values into a consistent format.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 4": {
+        "original_names": [
+            "Test Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 7,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Emerging",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\b2",
+                    "35 kgf/cm\b2",
+                    "35 bar"
+                ],
+                "frequency": 6,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 5": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 8,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Emerging",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\b2",
+                    "35 kgf/cm\b2",
+                    "35 bar"
+                ],
+                "frequency": 7,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 6": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 10,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 9,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 7": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 10,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 9,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 8": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 10,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 9,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 9": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 10,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 9,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 10": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\b2",
+                    "35 kgf/cm\b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 11": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 12": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 13": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 14": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\b2",
+                    "35 kgf/cm\b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 15": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 16": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\b2",
+                    "35 kgf/cm\b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 17": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\b2",
+                    "35 kgf/cm\b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    },
+    "Iteration 18": {
+        "original_names": [
+            "Test Pressure",
+            "Testing Pressure",
+            "Hydro Pressure"
+        ],
+        "spec_name": "Test Pressure",
+        "frequency": 11,
+        "reason_for_importance": "A technical performance specification that indicates the pressure at which the cylinder was tested. It is important for compliance and safety but is a secondary detail for most buyers.",
+        "external_signals": null,
+        "spec_name_status": "Dominant",
+        "reason_for_status": "Introduced from PDF data, this technical spec appears multiple times with different units, indicating its relevance as a secondary detail.",
+        "values": [
+            {
+                "standardized_value": "35 kgf/cm\u00b2",
+                "original_values": [
+                    "35 kg/sq. cm",
+                    "35 Kgf/cm\u00b2",
+                    "35 kgf/cm\u00b2",
+                    "35 bar"
+                ],
+                "frequency": 10,
+                "reason": "Standardized similar pressure values into a consistent format, converting 'bar' to 'kgf/cm\u00b2' as it's the dominant unit.",
+                "spec_status": "Dominant"
+            },
+            {
+                "standardized_value": "30 bar",
+                "original_values": [
+                    "30 bar"
+                ],
+                "frequency": 1,
+                "reason": "New pressure value with a different unit (bar).",
+                "spec_status": "Exploring"
+            }
+        ],
+        "change_history": []
+    }
+}
